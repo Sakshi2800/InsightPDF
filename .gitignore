@@ -1,0 +1,71 @@
+# === Node.js ===
+**/node_modules/
+**/dist/
+**/build/
+
+# === Environment Variables ===
+**/.env
+**/.env.*
+
+# === Logs ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+
+# === IDEs and Editors ===
+.vscode/
+*.code-workspace
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# === Python environments ===
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === Python tools ===
+*.sqlite3
+db.sqlite3
+
+# === Temporary and Uploaded Files ===
+temp/
+uploads/
+*.pdf
+*.docx
+*.doc
+*.zip
+*.tar
+*.rar
+
+# === Others ===
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# === Frontend Build Files ===
+frontend/dist/
+frontend/.vite/
+
+# === Dependency lock files (optional) ===
+# Uncomment if you want to ignore lock files
+# package-lock.json
+# yarn.lock
+
+# === Resume or Temp Files ===
+temp_*

@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-core
+langchain_community
+docx2txt
+pypdf
+chromadb
+langchain_chroma
+python-multipart
+fastapi
+uvicorn
+langchain-groq
+google-cloud-vision
+pdf2image
+azure-ai-vision-imageanalysis
